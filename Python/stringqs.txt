@@ -1,0 +1,12 @@
+
+			############# STRING QUESTIONS #############
+Swap commas and dots in a String
+Program to convert String to a List
+Count and display vowels in a string
+Check if a Substring is Present in a Given String
+Check if two strings are anagram or not
+Find the first repeated word in a string in Python (Needs dictionary implementation)
+Reverse words in a given String in Python
+Remove all duplicates words from a given sentence
+Reverse each word in a sentence
+
